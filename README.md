@@ -1,3 +1,4 @@
+<img src="/moranmono.png" alt="logo" />
 ### Hi there 👋
 
 <!--
