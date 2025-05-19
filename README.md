@@ -18,12 +18,6 @@ Currently, I work as a freelancer under **Talmon-Solutions**, helping companies 
 
 ---
 
-## 📈 GitHub Stats
-
-[![Moran's GitHub stats](https://github-readme-stats.vercel.app/api?username=moranmono&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moranmono&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠️ Tech Stack
 
 | Languages        | Frameworks            | Cloud                             | Other                         |
